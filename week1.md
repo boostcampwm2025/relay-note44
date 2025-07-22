@@ -351,12 +351,17 @@ AI를 어떻게 활용하면 좋을까
 | 달성 여부 | O|     |     |     |
 
 <details>
-  <summary>상세 과정</summary>
+  <summary>월요일</summary>
 
-다음주 업로드...
+  - 내가 짠 로드맵
+  ![alt text](week1Img/minyeong_chp_mon.png)
+  - 노트북 LM 활용 로드맵
+  ![alt text](week1Img/minyeong_chp_mon_lm.png)
+  - 로드맵이 비슷하여 내가 짠 로드맵을 미션 수행하면서 보완하는 방식으로 수행!
 
-## </details>
+</details>
 
+---
 `J216 이진희`  
 **선정한 퀘스트** : 미니 학습 커리큘럼 및 로드맵  
 **선정 이유**
