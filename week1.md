@@ -348,38 +348,40 @@ AI를 어떻게 활용하면 좋을까
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O|     |     |     |
+| 달성 여부 | O   |     |     |     |
 
 <details>
   <summary>월요일</summary>
 
-  - 내가 짠 로드맵
+- 내가 짠 로드맵
   ![alt text](week1Img/minyeong_chp_mon.png)
-  - 노트북 LM 활용 로드맵
+- 노트북 LM 활용 로드맵
   ![alt text](week1Img/minyeong_chp_mon_lm.png)
-  - 로드맵이 비슷하여 내가 짠 로드맵을 미션 수행하면서 보완하는 방식으로 수행!
+- 로드맵이 비슷하여 내가 짠 로드맵을 미션 수행하면서 보완하는 방식으로 수행!
 
 </details>
 
 ---
+
 `J216 이진희`  
 **선정한 퀘스트** : 미니 학습 커리큘럼 및 로드맵  
 **선정 이유**
 
-```
 항상 학습과 구현 사이의 균형을 잡는 것이 쉽지 않았다. 어려운 주제를 마주할 때마다 학습에만 지나치게 몰입하는 경향이 있었고, 어디까지 학습해야 할지 방향을 잃는 경우도 많았다.
 learning by doing을 실천하기 위해서는 학습을 조절하고, 구현과 연결되는 가이드라인이 필요하다고 느꼈다.
 
 그래서 이번 퀘스트를 통해 체계적인 학습 흐름을 만들고, 나만의 로드맵을 설계해 실행으로 이어지는 기반을 마련하고자 선택하게 되었다.
-```
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 |     |     |     |     |
+| 달성 여부 | O   |     |     |     |
 
 <details>
-  <summary>상세 과정</summary>
+  <summary>월요일</summary>
 
-다음주 업로드...
+- 요구사항을 보고 학습의 범위를 종이에 적는다.
+- 노트북 LM의 로드맵와 비교하며 학습의 범위를 보완한다.
+
+![](https://private-user-images.githubusercontent.com/88488482/468940273-4bd598c0-bc83-499b-9d24-f9ad0f5365f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNTUwNzQsIm5iZiI6MTc1MzE1NDc3NCwicGF0aCI6Ii84ODQ4ODQ4Mi80Njg5NDAyNzMtNGJkNTk4YzAtYmM4My00OTliLTlkMjQtZjlhZDBmNTM2NWY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDAzMjYxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4MmZjYzBiZmUyMzc1ZDRlNmNmMmYyZmZhMmQ4YmFiNWQxNTViYTgwOGE2OTk1YWQyMzM3ODAyYTQ2YTU1NGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZgJ6xVcn5qeIO-4jW4I5CtVU2ra-615GlNkUGom5AJg)
 
 </details>
