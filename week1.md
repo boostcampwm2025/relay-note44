@@ -420,5 +420,10 @@ learning by doing을 실천하기 위해서는 학습을 조절하고, 구현과
 
 <details>
   <summary>수요일</summary>
+
+  그래도 나의 방향성을 잡거나 빠진 부분을 확인하기 좋았다.
+  <img width="510" height="939" alt="스크린샷 2025-07-23 23 30 30" src="https://github.com/user-attachments/assets/ff03b0ea-ae00-4cc6-b630-36571489d5bc" />
+<img width="269" height="890" alt="스크린샷 2025-07-23 00 46 14" src="https://github.com/user-attachments/assets/2d6579fd-f153-4c43-b9a6-bf02f7efdbeb" />
+
 </details>
 
