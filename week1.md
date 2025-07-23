@@ -406,3 +406,19 @@ learning by doing을 실천하기 위해서는 학습을 조절하고, 구현과
 <img width="690" height="265" alt="Image" src="https://github.com/user-attachments/assets/3fc7335a-1631-4f2b-8622-c3dbb66b42df" />
 
 </details>
+
+
+`S007 김윤홍`  
+**선정한 퀘스트** : 학습 피드백 받기
+**선정 이유**
+
+나만의 체크포인트를 항상 나의 기준으로 만들어왔고 다른 분들의 체크포인트를 보기까지 하루가 지나야하니 그전에 AI는 어떻게 생각하는 지 피드백을 받고 싶었다.
+
+|           | 월  | 화  | 수  | 목  |
+| --------- | --- | --- | --- | --- |
+| 달성 여부 |    |     | O    |     |
+
+<details>
+  <summary>수요일</summary>
+</details>
+
