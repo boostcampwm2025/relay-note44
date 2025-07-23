@@ -348,7 +348,7 @@ AI를 어떻게 활용하면 좋을까
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O   |  O |     |     |
+| 달성 여부 | O   | O   |     |     |
 
 <details>
   <summary>월요일</summary>
@@ -374,7 +374,6 @@ AI를 어떻게 활용하면 좋을까
 
 </details>
 
-
 ---
 
 `J216 이진희`  
@@ -396,6 +395,14 @@ learning by doing을 실천하기 위해서는 학습을 조절하고, 구현과
 - 요구사항을 보고 학습의 범위를 종이에 적는다.
 - 노트북 LM의 로드맵와 비교하며 학습의 범위를 보완한다.
 
-![](https://private-user-images.githubusercontent.com/88488482/468940273-4bd598c0-bc83-499b-9d24-f9ad0f5365f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNTUwNzQsIm5iZiI6MTc1MzE1NDc3NCwicGF0aCI6Ii84ODQ4ODQ4Mi80Njg5NDAyNzMtNGJkNTk4YzAtYmM4My00OTliLTlkMjQtZjlhZDBmNTM2NWY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDAzMjYxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4MmZjYzBiZmUyMzc1ZDRlNmNmMmYyZmZhMmQ4YmFiNWQxNTViYTgwOGE2OTk1YWQyMzM3ODAyYTQ2YTU1NGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZgJ6xVcn5qeIO-4jW4I5CtVU2ra-615GlNkUGom5AJg)
+<img width="555" height="314" alt="Image" src="https://github.com/user-attachments/assets/4bd598c0-bc83-499b-9d24-f9ad0f5365f7" />
+
+</details>
+
+<details>
+  <summary>화요일</summary>
+혼났다.. 단순한 TODO 목록이 아니라 어떻게 로드맵을 계획해야하는지 피드백해줬다.
+
+<img width="690" height="265" alt="Image" src="https://github.com/user-attachments/assets/3fc7335a-1631-4f2b-8622-c3dbb66b42df" />
 
 </details>
