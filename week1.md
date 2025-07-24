@@ -348,7 +348,7 @@ AI를 어떻게 활용하면 좋을까
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O   | O   |  O  |     |
+| 달성 여부 | O   | O   | O   |     |
 
 <details>
   <summary>월요일</summary>
@@ -386,7 +386,6 @@ AI를 어떻게 활용하면 좋을까
 
 </details>
 
-
 ---
 
 `J216 이진희`  
@@ -400,7 +399,7 @@ learning by doing을 실천하기 위해서는 학습을 조절하고, 구현과
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O   |     |     |     |
+| 달성 여부 | O   | O   | O   |     |
 
 <details>
   <summary>월요일</summary>
@@ -420,6 +419,20 @@ learning by doing을 실천하기 위해서는 학습을 조절하고, 구현과
 
 </details>
 
+<details>
+  <summary>수요일</summary>
+
+- 내가 짠 로드맵
+  ![alt text](week1Img/jinhee-wed-im.png)
+- 노트북 LM 활용 로드맵
+  ![alt text](week1Img/jinhee-wed.png)
+- 나만의 언어로 요구사항을 작성
+- 내가 짠 로드맵에 대해 피드백 해줌
+  -> 개선
+
+</details>
+
+---
 
 `S007 김윤홍`  
 **선정한 퀘스트** : 학습 피드백 받기
@@ -429,17 +442,14 @@ learning by doing을 실천하기 위해서는 학습을 조절하고, 구현과
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 |    |     | O    |     |
+| 달성 여부 |     |     | O   |     |
 
 <details>
   <summary>수요일</summary>
   그래도 나의 방향성을 잡거나 빠진 부분을 확인하기 좋았다.
-  
 
   <img width="510" height="939" alt="스크린샷 2025-07-23 23 30 30" src="https://github.com/user-attachments/assets/ff03b0ea-ae00-4cc6-b630-36571489d5bc" />
   
   <img width="454" height="607" alt="스크린샷 2025-07-23 23 29 02" src="https://github.com/user-attachments/assets/a490fd66-7194-47cd-95ba-ec162574258f" />
 
-
 </details>
-
