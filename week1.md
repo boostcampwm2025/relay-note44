@@ -348,7 +348,7 @@ AI를 어떻게 활용하면 좋을까
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O   | O   | O   |  O  |
+| 달성 여부 | O   | O   | O   | O   |
 
 <details>
   <summary>월요일</summary>
@@ -398,9 +398,9 @@ AI를 어떻게 활용하면 좋을까
 - 노트북 LM의 경우 요구사항을 작업 단위로 나눠줄 뿐 추가로 학습해야 하는 것들을 설계하는 데에 부족하다고 느낌
 - 문서화에 좋은 제미나이를 사용했고, 추가 학습할 내용과 미션 수행에 대한 로드맵을 흐름에 따른 순서로 받음
 - 내가 짠 로드맵에 AI 활용 로드맵을 더하고, 미션을 수행하며 완성된 로드맵은 다음과 같음  
-    ![alt text](week1Img/minyeong_chp_result.png)
+   ![alt text](week1Img/minyeong_chp_result.png)
 - 목적에 맞게 AI를 선택해서 활용하는 것이 중요함을 알게 되었고, gist에 체크포인트가 명확하게 되어있다는 피드백 받음!
-  [미션9 gist](https://gist.github.com/minyeong981/5039a1e2d7b35a47a64606b615e789a8)
+[미션9 gist](https://gist.github.com/minyeong981/5039a1e2d7b35a47a64606b615e789a8)
 </details>
 
 ---
@@ -416,7 +416,7 @@ learning by doing을 실천하기 위해서는 학습을 조절하고, 구현과
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O   | O   | O   |     |
+| 달성 여부 | O   | O   | O   | O   |
 
 <details>
   <summary>월요일</summary>
@@ -447,6 +447,17 @@ learning by doing을 실천하기 위해서는 학습을 조절하고, 구현과
 - 내가 짠 로드맵에 대해 피드백 해줌
   -> 개선
 
+</details>
+
+<details>
+  <summary>목요일</summary>
+
+![alt text](week1Img/jinhee-thu.png)
+
+- 이번 미션은 학습할 내용이 많았음
+- 내가 짠 로드맵에 대해 피드백 + 우선순위를 알려달라고 함
+- 우선순위에 맞게 체크포인트의 순서를 바꿔서 알려줌
+- 우선순위 덕분에 학습의 흐름이 자연스러워서 배경 지식을 이해하는데 도움되었음!
 </details>
 
 ---
