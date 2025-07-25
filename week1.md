@@ -348,14 +348,14 @@ AI를 어떻게 활용하면 좋을까
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O   | O   | O   |     |
+| 달성 여부 | O   | O   | O   |  O  |
 
 <details>
   <summary>월요일</summary>
 
-- 내가 짠 로드맵
+- 내가 짠 로드맵  
   ![alt text](week1Img/minyeong_chp_mon.png)
-- 노트북 LM 활용 로드맵
+- 노트북 LM 활용 로드맵  
   ![alt text](week1Img/minyeong_chp_mon_lm.png)
 - 로드맵이 비슷하여 내가 짠 로드맵을 미션 수행하면서 보완하는 방식으로 수행!
 
@@ -364,9 +364,9 @@ AI를 어떻게 활용하면 좋을까
 <details>
   <summary>화요일</summary>
 
-- 내가 짠 로드맵
+- 내가 짠 로드맵  
   ![alt text](week1Img/minyeong_chp_tue.png)
-- 노트북 LM 활용 로드맵
+- 노트북 LM 활용 로드맵  
   ![alt text](week1Img/minyeong_chp_tue_lm.png)
 - 이번에도 비슷했음
 - 주어진 요구사항을 기반으로 설계하다보니 초기 로드맵은 비슷하고, 학습이나 구현을 하면서 많이 달라짐
@@ -377,13 +377,30 @@ AI를 어떻게 활용하면 좋을까
 <details>
   <summary>수요일</summary>
 
-- 내가 짠 로드맵
+- 내가 짠 로드맵  
   ![alt text](week1Img/minyeong_chp_wed.png)
-- 노트북 LM 활용 로드맵
+- 노트북 LM 활용 로드맵  
   ![alt text](week1Img/minyeong_chp_wed_lm.png)
 - 수요일 미션이 다소 명확하게 요구사항이 적혀 있어 로드맵이 유사함
 - 체크포인트(목요일 확인)를 확인해 보니 관련 학습 부분이 부족했다는 것을 알게 되어 이미 알고 있는 내용과 알고 싶은 내용을 프롬프트로 작성해 로드맵을 탄탄히 짤 수 있도록 해봐야겠음
 
+</details>
+
+<details>
+  <summary>목요일</summary>
+
+- 내가 짠 로드맵  
+  ![alt text](week1Img/minyeong_chp_thu.png)
+- 제미나이 활용 로드맵  
+  ![alt text](week1Img/minyeong_chp_thu_jemini.png)
+- 이번 미션은 알아야 할 내용이 많고, 종합적으로 이해하는 게 필요했음
+- 그만큼 로드맵이 중요했고 직접 작성하기 쉽지 않았음
+- 노트북 LM의 경우 요구사항을 작업 단위로 나눠줄 뿐 추가로 학습해야 하는 것들을 설계하는 데에 부족하다고 느낌
+- 문서화에 좋은 제미나이를 사용했고, 추가 학습할 내용과 미션 수행에 대한 로드맵을 흐름에 따른 순서로 받음
+- 내가 짠 로드맵에 AI 활용 로드맵을 더하고, 미션을 수행하며 완성된 로드맵은 다음과 같음  
+    ![alt text](week1Img/minyeong_chp_result.png)
+- 목적에 맞게 AI를 선택해서 활용하는 것이 중요함을 알게 되었고, gist에 체크포인트가 명확하게 되어있다는 피드백 받음!
+  [미션9 gist](https://gist.github.com/minyeong981/5039a1e2d7b35a47a64606b615e789a8)
 </details>
 
 ---
