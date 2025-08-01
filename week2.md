@@ -73,7 +73,17 @@ Q3. 오늘 배운 개념에 대해 비현실적이지만 극단적인 조건을 
 
 `git clone` 명령을 구현하면서 기본적으로 HEAD가 가리키는 커밋 개체과 관리하는 트리 개체가 BLOB 타입의 참조만을 가지고 있다고 가정하고 구현했다.   
 
-극단적인(?) 조건: 만약 트리 개체에 보관된 해시 참조 내용 중 BLOB이 아닌 TREE 타입의 참조도 있는 경우라면?
+극단적인(?) 조건: 만약 트리 개체에 보관된 해시 참조 내용 중 BLOB이 아닌 TREE 타입의 참조도 있는 경우라면?   
+
+<img width="440" height="258" alt="image" src="https://gist.github.com/user-attachments/assets/d449efeb-9cee-49c0-9cc9-ace173d828f8" />   
+<img width="637" height="389" alt="image" src="https://gist.github.com/user-attachments/assets/50be3df7-6c7b-4fcb-b764-197152d9f8b2" />    
+<img width="632" height="282" alt="image" src="https://gist.github.com/user-attachments/assets/a21c7a78-516a-413f-96c7-5040848affc2" />    
+<img width="627" height="131" alt="image" src="https://gist.github.com/user-attachments/assets/44172fc6-d38f-4aea-85d6-872d483ea180" />    
+<img width="625" height="547" alt="image" src="https://gist.github.com/user-attachments/assets/0f81f553-4b50-4881-a000-cd750a69c162" />    
+<img width="626" height="411" alt="image" src="https://gist.github.com/user-attachments/assets/1412a702-ceae-471b-adb1-28384e5b8e70" />     
+
+---
+<img width="868" height="100" alt="image" src="https://gist.github.com/user-attachments/assets/c3497246-6782-4641-89da-70b4e5a0b954" />    
 
 ### J267
 수행할 퀘스트: `1) 🎨 개념 비유 생성기`과 `3) 🎭 극한의 예시 찾기` 중 고민
