@@ -75,15 +75,12 @@ Q3. 오늘 배운 개념에 대해 비현실적이지만 극단적인 조건을 
 
 극단적인(?) 조건: 만약 트리 개체에 보관된 해시 참조 내용 중 BLOB이 아닌 TREE 타입의 참조도 있는 경우라면?   
 
-<img width="440" height="258" alt="image" src="https://gist.github.com/user-attachments/assets/d449efeb-9cee-49c0-9cc9-ace173d828f8" />   
-<img width="637" height="389" alt="image" src="https://gist.github.com/user-attachments/assets/50be3df7-6c7b-4fcb-b764-197152d9f8b2" />    
-<img width="632" height="282" alt="image" src="https://gist.github.com/user-attachments/assets/a21c7a78-516a-413f-96c7-5040848affc2" />    
-<img width="627" height="131" alt="image" src="https://gist.github.com/user-attachments/assets/44172fc6-d38f-4aea-85d6-872d483ea180" />    
-<img width="625" height="547" alt="image" src="https://gist.github.com/user-attachments/assets/0f81f553-4b50-4881-a000-cd750a69c162" />    
-<img width="626" height="411" alt="image" src="https://gist.github.com/user-attachments/assets/1412a702-ceae-471b-adb1-28384e5b8e70" />     
-
----
-<img width="868" height="100" alt="image" src="https://gist.github.com/user-attachments/assets/c3497246-6782-4641-89da-70b4e5a0b954" />    
+<img width="634" height="341" alt="image" src="https://github.com/user-attachments/assets/360f02fe-4462-4a91-b4ca-b00a9f5a7543" />    
+<img width="638" height="279" alt="image" src="https://github.com/user-attachments/assets/e89f4cec-edd3-486f-bbca-ba14616c713a" />    
+<img width="639" height="286" alt="image" src="https://github.com/user-attachments/assets/a7e50be7-5f33-486b-9dab-98e767c5729b" />    
+<img width="625" height="138" alt="image" src="https://github.com/user-attachments/assets/ef94bca6-0c74-465e-8fa9-37fd94460a55" />    
+<img width="625" height="529" alt="image" src="https://github.com/user-attachments/assets/d406152a-f2eb-417e-9ad1-d82fb91a8946" />    
+<img width="644" height="417" alt="image" src="https://github.com/user-attachments/assets/c1aa298c-9219-4d73-945d-b7a5bcd7a520" />     
 
 ### J267
 수행할 퀘스트: `1) 🎨 개념 비유 생성기`과 `3) 🎭 극한의 예시 찾기` 중 고민
