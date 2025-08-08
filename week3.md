@@ -87,3 +87,56 @@
 ### 선택한 이유 :
 
 미션을 수행하기 전에 학습에 필요한 적절한 학습 자료를 찾고, 그것을 이해하기 위해 다시 개념을 파고드는 과정에서 시간과 체력이 많이 소모되는 것을 느꼈습니다. AI를 활용해 개념에 필요한 영상 학습 자료를 추천 받는다면, 미션에 앞서 개념을 익히고 개념에 대한 딥다이브 하는 과정을 보다 원활하게 진행할 수 있을 것 같다는 기대가 되어 본 퀘스트를 선택하였습니다.
+
+### 수행 결과
+
+1. 프롬프트
+```
+나는 CS를 공부하고 있는 학생이야. 너는 지금부터 내게 CS를 가르쳐주고 있는 현직 개발자 멘토야.
+내가 학습 주제 또는 학습 목표 등을 제시하면,
+너는 완전 초심자에게 추천하는 강의부터 심화 강의까지 난이도별로 다양한 영상 학습 자료를 링크와 함께 제공해줘야 해.
+나는 지금 벡터 DB, word2vec, vector embedding, transformer 등에 대해 공부하고 있어.
+벡터 임베딩 원리와 구조를 이해하고 JavaScript로 직접 벡터 DB를 구현하여 실제 kaggle 데이터를 이용해 유사도 검증을 하는 것이 목표야.
+내가 학습을 잘 할 수 있도록 난이도별 영상 학습 자료를 추천해줄 수 있을까?
+```
+AI 프롬프팅을 할 때 상황과 역할 부여가 중요하다고 들어서, 학습자와 멘토라는 역할을 부여하고 답을 하도록 요청하였다.
+
+2. 결과
+
+🎓 초급: 개념 이해 & 원리 요약
+- https://youtu.be/ISPId9Lhc1g (“A Gentle Intro to Word Embeddings in Machine Learning”)
+  
+  Word2Vec와 임베딩 개념을 시각적으로 쉽게 설명한 영상. 용어와 원리를 초보자에게 잘 전달합니다.
+
+- https://youtu.be/viZrOnJclY0 (“Word Embedding and Word2Vec, Clearly Explained!!!”)
+  
+  단어 벡터 학습 방식(CBOW, Skip‑gram 등)에 대해 핵심을 정리해 주는 영상입니다.
+
+
+
+🧠 중급: 임베딩 방식 비교 및 Transformer 기반 문장 임베딩
+- https://youtu.be/gVZryxJRdSY (“Bag of Words to word2vec to Transformer contextual embeddings”)
+  
+  BoW → Word2Vec → Transformer 임베딩까지 발전 과정을 차근히 설명하며, context‑aware 한 벡터의 개념을 이해하기 좋습니다.
+
+- https://youtu.be/WS1uVMGhlWQ (“Intro to Sentence Embeddings with Transformers” (SBERT 기반))
+  
+  문장 단위의 임베딩, SBERT 기반 embedding 모델 사용법과 활용 예를 소개합니다.
+
+
+
+📂 중급~고급: 벡터 DB와 실습 중심 강의
+- https://youtu.be/dN0lsF2cvm4 (“Vector Databases simply explained! (Embeddings & Indexes)”)
+  
+  벡터 DB의 개념, 인덱싱 방식, 운용 원리를 시각적으로 쉽게 다룹니다. Pinecone, Milvus 같은 시스템 설명도 포함되어 있습니다.
+
+- https://youtu.be/8KrTO9bS91s?si=wg5-dJaEMvtX5xwB (“Complete Tutorial on Vector Database | Generative AI”)
+  
+  실습 중심으로 Pinecone 등 실제 벡터 DB 운영 및 embedding 삽입, 검색 작업을 보여줍니다. JavaScript 적용에도 참고될 수 있어요.
+
+
+
+3. 결론
+
+영상을 확인해 본 결과, 초급~중급 난이도에는 Vector DB의 원리를 이해할 수 있도록 Vector Embedding과 Word2Vec, transformer 모델의 구조와 원리에 대한 학습 영상을 위주로 추천해 주었고, 고급 난이도에 Vector DB에 대한 영상을 추천해준 것을 확인할 수 있었다. 특히 마지막 영상 자료 "Complete Tutorial on Vector Database | Generative AI"의 경우 실제 Python을 이용해 Vector DB 중 하나를 이용하는 실습 내용까지 포함되어 있어 무척 좋은 자료라고 생각하였다.
+그러나, Vector Embedding에 집중하여 Vector DB에 대한 학습 영상 난이도 편차가 매우 크고, Node.js를 활용하는 영상을 찾을 수 없었던 점이 아쉬웠다. 또한, 실제 유튜브에서 검색한 결과 한국어 영상 자료가 몇 가지 발견되었으나, 영어 강의에 비해 조회수가 높지 않은 탓인지 추천되지 않은 것을 확인할 수 있었다.
